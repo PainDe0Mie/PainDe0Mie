@@ -1,7 +1,8 @@
 ### Salut la compagnie 👋
 
-🥖 - Je suis PainDe0Mie                   
-🍃 - Je suis un developpeur python, mais je sais faire du js ou encore du c# !      
+🥖 - I'm PainDe0Mie                   
+🍃 - I'm a developper bilingual programming language (py, js, c#, web, ect..) !
+🇫🇷/🇬🇧 - Speak french and english :)
 
 N'hésite pas à voir mes projets !
 
