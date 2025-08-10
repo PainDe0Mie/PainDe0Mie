@@ -1,7 +1,7 @@
 ### Salut la compagnie 👋
 
 🥖 - I'm PainDe0Mie                   
-🍃 - I'm a developper bilingual programming language (py, js, c#, web, ect..) !
+🍃 - I'm a developper bilingual programming language (py, js, c#, web, ect..) !                  
 🇫🇷/🇬🇧 - Speak french and english :)
 
 N'hésite pas à voir mes projets !
