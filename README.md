@@ -4,7 +4,7 @@
 🍃 - I'm a developper bilingual programming language (py, js, c#, web, ect..) !                  
 🇫🇷/🇬🇧 - Speak french and english :)
 
-AudioEZ: https://painde0mie.github.io/
+About Me: https://painde0mie.github.io/
 
 N'hésite pas à voir mes projets !
 
